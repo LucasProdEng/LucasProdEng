@@ -34,7 +34,7 @@ Production Engineer • Infrastructure • Reliability • Cloud
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasProdEng&layout=compact&theme=dark&hide_border=true" />
+ <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="180" />
 </p>
 
 ---
