@@ -1,7 +1,7 @@
 <h1 align="center">Lucas — Production Engineer</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="180" alt="Yoshi animation" />
+ <img src="https://raw.githubusercontent.com/rodrigorgtic/yoshi-gif/main/yoshi.gif" width="180" alt="Yoshi walking" />
 </p>
 
 <p align="center">
