@@ -1,18 +1,5 @@
 <table>
   <tr>
-    <td align="center">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=650&height=40&lines=root%40LucasProdEng%3A~%24+echo+%22Hello%2C+I%27m+Lucas!%22" 
-        alt="Typing SVG"
-      />
-      <br><br>
-      <img 
-        src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/yoshi.gif" 
-        width="320"
-        alt="Yoshi"
-      />
-    </td>
-
     <td valign="top">
       <strong>About me</strong>
       <ul>
@@ -41,9 +28,3 @@
     </td>
   </tr>
 </table>
-
-<hr>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,ts,angular,git" />
-</p>
